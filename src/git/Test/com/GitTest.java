@@ -9,6 +9,7 @@ public class GitTest {
         System.out.println("hot-fix test");
         System.out.println("merge branch");
         System.out.println("hot-fix pull");
+        System.out.println("hot-fix clone");
     }
 
 }
